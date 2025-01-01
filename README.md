@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Cláudio Victor da Silva Rodrigues</h1>
-<h3 align="center">Apaixonado por Análise de Dados/Ciência de Dados/Machine learning</h3>
+<h3 align="center">Apaixonado por Cybersegurança e Desenvolvimento web</h3>
 
 - 🌱 Atualmente estou estudando **Python, Js, Html, CSS, Cybersegurança**
 
