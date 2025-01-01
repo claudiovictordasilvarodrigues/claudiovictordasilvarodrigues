@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Cláudio Victor da Silva Rodrigues</h1>
 <h3 align="center">Apaixonado por Análise de Dados/Ciência de Dados/Machine learning</h3>
 
-- 🌱 Atualmente estou estudando **Python, SQL, Power BI, Machine Learning**
+- 🌱 Atualmente estou estudando **Python, Js, Html, CSS, Cybersegurança**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
