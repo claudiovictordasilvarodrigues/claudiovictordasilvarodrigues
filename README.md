@@ -1,7 +1,11 @@
-<h1 align="center">Olá! Eu sou o Cláudio Victor da Silva Rodrigues</h1>
+<h1 align="center">Cláudio Victor da Silva Rodrigues</h1>
 <h3 align="center">Apaixonado por Cybersegurança e Desenvolvimento web</h3>
 
-- 🌱 Atualmente estou estudando **Python, Js, Html, CSS, Cybersegurança**
+Atualmente estou estudando:
+- Vue.js | Vuex | Vue Router
+- Node.js | Express
+- Banco de Dados | Postgre | MySQL
+- OSINT | Digital Forensics
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
