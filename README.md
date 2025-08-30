@@ -2,9 +2,9 @@
 <h3 align="center">Apaixonado por Cybersegurança e Desenvolvimento web</h3>
 
 Atualmente estou estudando:
-- Vue.js | Vuex | Vue Router
+- React
 - Node.js | Express
-- Banco de Dados | Postgre | MySQL
+- Banco de Dados | MongoDB | MySQL
 - OSINT | Digital Forensics
 
 <h3 align="left">Connect with me:</h3>
