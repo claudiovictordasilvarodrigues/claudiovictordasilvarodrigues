@@ -1,16 +1,71 @@
-<h1 align="center">Cláudio Victor da Silva Rodrigues</h1>
-<h3 align="center">Apaixonado por Cybersegurança e Desenvolvimento web</h3>
+# Victor Rodrigues
 
-Atualmente estou estudando:
-- React
-- Node.js | Express
-- Banco de Dados | MongoDB | MySQL
-- OSINT | Digital Forensics
+Software Engineer focused on Systems Programming, Embedded Linux and Firmware Research.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedlin.com/in/cláudio-victor-da-silva-rodrigues-0b9560261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedlin.com/in/cláudio-victor-da-silva-rodrigues-0b9560261" height="30" width="40" /></a>
-</p>
+I build software in C and Python for Linux environments, with interests in low-level systems, reverse engineering, firmware analysis and embedded security.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## Core Technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+
+---
+
+## Technical Areas
+
+- Systems Programming
+- Embedded Linux
+- Linux Internals
+- Reverse Engineering
+- Firmware Analysis
+- Firmware Forensics
+- Data Recovery
+- Hardware Hacking
+- Embedded Security Research
+- Networking
+- Binary Analysis
+
+---
+
+## Development Tools
+
+- GCC
+- GDB
+- Make
+- Valgrind
+- strace
+- ltrace
+- readelf
+- objdump
+- nm
+- QEMU
+- Buildroot
+- Binwalk
+
+---
+
+## Technologies
+
+- POSIX APIs
+- ELF Internals
+- TCP/IP Sockets
+- Multithreading (pthread)
+- ARM Architecture
+- Cross Compilation
+- Device Tree
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/claudio-victor-da-silva-rodrigues
+- Email: victorSR@gmail.com
+
+---
+
+> Building software closer to the operating system and hardware layers.
