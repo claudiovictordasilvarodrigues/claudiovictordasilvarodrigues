@@ -1,71 +1,83 @@
-# Victor Rodrigues
+# Hi, I'm Victor Rodrigues 👋
 
-Software Engineer focused on Systems Programming, Embedded Linux and Firmware Research.
+Backend Developer focused on building modern APIs with Node.js and TypeScript, while developing a strong foundation in Security Engineering.
 
-I build software in C and Python for Linux environments, with interests in low-level systems, reverse engineering, firmware analysis and embedded security.
-
----
-
-## Core Technologies
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+I enjoy understanding how systems work internally, designing well-structured backends, and applying security concepts throughout the software development lifecycle.
 
 ---
 
-## Technical Areas
+## 💼 About Me
 
-- Systems Programming
-- Embedded Linux
-- Linux Internals
-- Reverse Engineering
-- Firmware Analysis
-- Firmware Forensics
-- Data Recovery
-- Hardware Hacking
-- Embedded Security Research
-- Networking
-- Binary Analysis
+- 💻 Backend Developer
+- ⚙️ Building REST APIs with Node.js & TypeScript
+- 🐳 Learning Docker and application deployment
+- 🐧 Linux enthusiast
+- 🔒 Studying Security Engineering
+- 🧩 Interested in software architecture and secure systems
 
 ---
 
-## Development Tools
+## 🛠️ Tech Stack
 
-- GCC
-- GDB
-- Make
-- Valgrind
-- strace
-- ltrace
-- readelf
-- objdump
-- nm
-- QEMU
-- Buildroot
-- Binwalk
+### Backend
+- Node.js
+- TypeScript
+- Fastify
+- Express
+- PostgreSQL
 
----
+### Infrastructure
+- Docker
+- Linux
+- Git
+- AWS (Learning)
 
-## Technologies
+### Security
+- OWASP Top 10
+- API Security
+- Secure Coding
 
-- POSIX APIs
-- ELF Internals
-- TCP/IP Sockets
-- Multithreading (pthread)
-- ARM Architecture
-- Cross Compilation
-- Device Tree
+### Python
+Used for automation, data processing and specialized microservices.
 
 ---
 
-## Contact
+## 📚 Current Focus
 
-- LinkedIn: https://linkedin.com/in/claudio-victor-da-silva-rodrigues
-- Email: victorSR@gmail.com
+I'm currently focused on becoming a strong Backend Developer while gradually specializing in Security Engineering.
+
+Current roadmap:
+
+- Backend Engineering
+- REST APIs
+- Docker
+- PostgreSQL
+- Linux
+- Application Security
+- AWS Deployment
 
 ---
 
-> Building software closer to the operating system and hardware layers.
+## 🚀 Featured Projects
+
+Coming soon...
+
+- Authentication API
+- Finance API
+- Blog API
+- Tourism Platform
+- Security Labs
+- Python Services
+
+---
+
+## 🎯 Career Goal
+
+Build reliable backend systems and grow into Security Engineering by combining software development, system architecture and application security.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [https://linkedin/in/claudio](https://www.linkedin.com/in/claudio-victor-da-silva-rodrigues/)
+- Portfolio *(coming soon)*
